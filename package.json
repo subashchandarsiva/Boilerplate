@@ -1,0 +1,23 @@
+{
+  "name": "reactboiler",
+  "version": "1.0.0",
+  "description": "A boiler plate for react developement",
+  "main": "rbp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subashchandarsiva/Boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subashchandarsiva/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/subashchandarsiva/Boilerplate#readme"
+}
