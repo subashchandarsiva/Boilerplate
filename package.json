@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "boiler",
   "version": "1.0.0",
   "description": "boiler plate",
@@ -21,4 +22,27 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   }
+=======
+  "name": "reactboiler",
+  "version": "1.0.0",
+  "description": "A boiler plate for react developement",
+  "main": "rbp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subashchandarsiva/Boilerplate.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subashchandarsiva/Boilerplate/issues"
+  },
+  "homepage": "https://github.com/subashchandarsiva/Boilerplate#readme"
+>>>>>>> 9a1c5d0e781790ca5ccd6896d713579cd7cda3a2
 }
