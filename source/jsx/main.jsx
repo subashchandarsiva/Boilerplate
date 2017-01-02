@@ -1,3 +1,4 @@
+	import React from 'react';
 	var comp1 = require('./comp1.jsx')
     var comp2 = require('./comp2.jsx')
     const MyMainComponent = React.createClass({
